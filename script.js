@@ -1,5 +1,5 @@
-function showDesc(obj, n) {
-  obj.desc.value = n;
+function showDesc(obj, text) {
+  obj.desc.value = text;
 }
 
 function remove(obj) {
